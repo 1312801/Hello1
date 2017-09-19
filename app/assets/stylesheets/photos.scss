@@ -1,0 +1,15 @@
+// Place all the styles related to the photos controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.my_image
+{
+  width: 30%;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 2px solid gray;
+  padding: 5px;
+}
+.my_image img
+{
+  width: 100%;
+}
